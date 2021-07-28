@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ListaTarefas/static/css/main.3dfc97b5.chunk.css",
-    "main.js": "/ListaTarefas/static/js/main.517cdb98.chunk.js",
-    "main.js.map": "/ListaTarefas/static/js/main.517cdb98.chunk.js.map",
+    "main.js": "/ListaTarefas/static/js/main.54323ebb.chunk.js",
+    "main.js.map": "/ListaTarefas/static/js/main.54323ebb.chunk.js.map",
     "runtime-main.js": "/ListaTarefas/static/js/runtime-main.97bc4a8e.js",
     "runtime-main.js.map": "/ListaTarefas/static/js/runtime-main.97bc4a8e.js.map",
     "static/js/2.ea2061d0.chunk.js": "/ListaTarefas/static/js/2.ea2061d0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.97bc4a8e.js",
     "static/js/2.ea2061d0.chunk.js",
     "static/css/main.3dfc97b5.chunk.css",
-    "static/js/main.517cdb98.chunk.js"
+    "static/js/main.54323ebb.chunk.js"
   ]
 }
